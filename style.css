@@ -5,10 +5,15 @@ body {
     align-items: center;
     height: 100vh;
     margin: 0;
+    background: url('snow.jpg') no-repeat center center fixed;
+    background-size: cover;
 }
 
 .container {
     text-align: center;
+    background: rgba(255, 255, 255, 0.8); /* White background with some transparency */
+    padding: 20px; /* Add padding to the container */
+    border-radius: 10px; /* Optional: Add rounded corners */
 }
 
 button {
