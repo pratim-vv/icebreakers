@@ -5,10 +5,10 @@ const icebreakers = [
     "How do you like your potatoes? Baked? Mashed? Fried? Why?",
     "Opinions on Chancellor Jones?",
     "Most illegal thing you have done?",
-    "Do you like campus or your hometown more? Explicame",
-    "Are you German? Ethiopian? What are you?",
-    "Have you ever been out of country?",
-    "Do you need the max wins?"
+    "Do you like campus or your hometown more?",
+    "Where is your family from?",
+    "One thing you love or hate about your roommates?",
+    "Would you rather play a hero or a villain?"
 ];
 
 // Function to generate a random icebreaker
